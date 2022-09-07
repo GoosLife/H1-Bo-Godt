@@ -9,9 +9,9 @@ namespace H1_Bo_Godt
 {
     internal abstract class Room
     {
-        private int size;
-        private List<Window> windows;
-        private List<Door> doors;
+        protected int size;
+        protected List<Window> windows;
+        protected List<Door> doors;
 
         protected Room(int size, List<Window> windows, List<Door> doors)
         {

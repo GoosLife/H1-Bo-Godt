@@ -8,8 +8,8 @@ namespace H1_Bo_Godt
 {
     internal abstract class Window
     {
-        private bool isMatted;
-        private bool canOpen;
+        protected bool isMatted;
+        protected bool canOpen;
 
         protected Window(bool isMatted, bool canOpen)
         {

@@ -1,0 +1,3 @@
+I think I could find a better way to generate my apartments...
+
+This method turned out to be a lot more messy than I thought it would be when I was drawing the class diagram.
